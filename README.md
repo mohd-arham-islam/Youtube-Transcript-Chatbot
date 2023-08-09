@@ -23,10 +23,10 @@ Here's where the magic really happens. Instead of having the LLM analyze the ent
 ### Advantages of the Approach
 The synergy between LangChain, FAISS, and OpenAI's LLM offers several advantages:
 
-* Efficiency: The AI doesn't waste time analyzing irrelevant parts of the transcript, making the conversation more efficient.
-* Speed: Thanks to similarity search, responses are generated faster, providing a seamless user experience.
-* Resource Optimization: The computational resources needed are significantly reduced, making the application more scalable.
-* User-Centric: Users can extract insights from videos without investing extensive time or effort.
+* **Efficiency:** The AI doesn't waste time analyzing irrelevant parts of the transcript, making the conversation more efficient.
+* **Speed:** Thanks to similarity search, responses are generated faster, providing a seamless user experience.
+* **Resource Optimization:** The computational resources needed are significantly reduced, making the application more scalable.
+* **User-Centric:** Users can extract insights from videos without investing extensive time or effort.
   
 # Conclusion
 In a nutshell, my YouTube Transcript Chatbot application combines LangChain's data integration capabilities, OpenAI's powerful language model, and the efficiency of FAISS's similarity search to create a user-friendly tool for extracting insights from YouTube videos. Simply provide the video URL, and the AI will engage in insightful conversations with you based on the video's transcript. It's a game-changer for anyone seeking knowledge without the need to watch lengthy videos!

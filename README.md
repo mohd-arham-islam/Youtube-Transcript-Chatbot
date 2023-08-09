@@ -2,6 +2,9 @@
 ## Introduction
 Have you ever wanted to gain valuable insights from a lengthy YouTube video without having to watch the entire thing? Well, you're in luck! I've developed an innovative application that allows users to have interactive conversations with an AI model regarding any YouTube video. All you need to do is provide the video's URL, and the AI will engage with you based on the video's transcript.
 
+![Screenshot 2023-06-15 142717](https://github.com/mohd-arham-islam/Youtube-Transcript-Chatbot/assets/111959286/d4fc857c-2d1f-461e-ab87-677761050812)
+
+
 ## The Tools at Play
 To make this magic happen, I've harnessed the power of two essential components: LangChain and FAISS.
 

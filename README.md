@@ -7,7 +7,7 @@ Have you ever wanted to gain valuable insights from a lengthy YouTube video with
 
 
 ## The Tools at Play
-To make this magic happen, I've harnessed the power of two essential components: LangChain and FAISS.
+To make this magic happen, I've harnessed the power of two essential components: **LangChain** and **FAISS**.
 
 ### LangChain and OpenAI's LLM (text-davinci-003)
 LangChain is a remarkable technology that serves as the bridge between OpenAI's powerful LLM (Language Model) and external data sources, like the transcript of a YouTube video. Specifically, I'm utilizing the **text-davinci-003**  variant of the LLM, which is well-suited for generating human-like text.
